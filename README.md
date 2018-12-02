@@ -1,4 +1,4 @@
-# python-test
+# NSEPY: Time Series Analysis + Forecasting
 
 
 >>> RedCarpet's internship assignment: https://pastebin.com/QDbSQPZg
