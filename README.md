@@ -27,10 +27,57 @@ The Problem statement has been removed and moved to a new seperate file. You can
 # Approaches:
 
 - ### Data Collection:
->>> The data collection method is comprehensively explained in this Kaggle Kernel.
+>>> The data collection method is comprehensively explained in this Kaggle [Kernel](https://www.kaggle.com/atulanandjha/webscraper-to-download-data-for-nse).
 
->>> Know more about the data used for this project here.
+>>> Know more about the data used for this project [here](https://www.kaggle.com/atulanandjha/national-stock-exchange-time-series).
+
+>>> ** See the Time Series Analysis and Forecast Solution [here](https://www.kaggle.com/atulanandjha/time-series-forecast-starter-eda-kernel)
 
 - ### Snapshots of Project:
+![MA4INFOSYS](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/img/moving-average-INFY.png)
 
+**Fig: Moving average plot for Infosys**
+
+
+
+![MA4NIFTY_IT](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/img/moving-average-NIFTY_IT_INDEX.png)
+
+**Fig: Moving average plot for NIFTY_IT_INDEX**
+
+
+
+![MA4TCS](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/img/moving-average-TCS.png)
+
+**Fig: Moving average plot for TCS**
+
+
+
+![auto-correlation-infosys](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/img/auto-correlation-infy.png)
+
+**Fig: Auto-Correlation Plot for INFOSYS**
+
+
+
+![auto-correlation-nifty-it](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/img/auto-correlation-nifty_it.png)
+
+**Fig: Auto-Correlation Plot for INFOSYS**
+
+
+
+![auto-correlation-tcs](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/img/auto-correlation-tcs.png)
+
+**Fig: Auto-Correlation Plot for INFOSYS**
+
+
+# Tableau Workbook Complete analysis:
+
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/poldham#!/vizhome/MySecretPlanforWorldDomination/Historia1?publish=yes"></iframe>
+
+<iframe src="https://public.tableau.com/views/TemperaturePlotsfromIOTData/Dashboard2?:showVizHome=no&:embed=true"
+ width="645" height="955"></iframe>
+
+
+
+
+# Thanks !
 
