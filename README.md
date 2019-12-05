@@ -31,7 +31,7 @@ The Problem statement has been removed and moved to a new seperate file. You can
 
 >>> Know more about the data used for this project [here](https://www.kaggle.com/atulanandjha/national-stock-exchange-time-series).
 
-- **See the Time Series Analysis and Forecast Solution [here](https://www.kaggle.com/atulanandjha/time-series-forecast-starter-eda-kernel).**
+- **See the Time Series Analysis and Forecast Solution [here](https://www.kaggle.com/atulanandjha/time-series-analysis-and-forecast-starter-eda).**
 
 - ### Snapshots of Project:
 ![MA4INFOSYS](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/img/moving-average-INFY.png)
