@@ -21,7 +21,7 @@ Scikit-learn
 
 >>> **problem Statement**:
 
-The Problem statement has been removed and moved to a new seperate file. You can check that ![here](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/Problem%20Statement.txt).
+The Problem statement has been removed and moved to a new seperate file. You can check that [here](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/Problem%20Statement.txt).
 
 
 # Approaches:
