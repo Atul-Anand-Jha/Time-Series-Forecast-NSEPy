@@ -1,6 +1,9 @@
 # NSEPY: Time Series Analysis + Forecasting
 
 
+![sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6Qr9-a_M7Cb2YYq5R43NcPZjBHcNyJ01Ed7Fr1wODfT0Jqiim)
+
+
 >>> RedCarpet's internship assignment: https://pastebin.com/QDbSQPZg
 
 >>> Dataset selection: Use: https://github.com/swapniljariwala/nsepy
@@ -21,7 +24,7 @@ Scikit-learn
 
 >>> **problem Statement**:
 
-The Problem statement has been removed and moved to a new seperate file. You can check that [here](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/Problem%20Statement.txt).
+The Problem statement has been shifted to a new seperate file. You can check that [here](https://github.com/Atul-Anand-Jha/Time-Series-Forecast-NSEPy/blob/master/Problem%20Statement.txt).
 
 
 # Approaches:
